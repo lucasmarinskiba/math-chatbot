@@ -7,4 +7,4 @@ Un chatbot simple creado con Python y Flask que responde preguntas de matemátic
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/math-chatbot.git
+   git clone https://github.com/lucasmarinskiba/math-chatbot.git
